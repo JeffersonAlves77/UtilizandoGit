@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<entitys>
+<Company name="Company"/>
+<Fs
+	F1="null"
+	F2="null"
+	F3="null"
+	F4="null"
+	F5="null"
+	F6="null"
+	F7="null"
+	F8="null"
+	F9="null"
+	F10="null"
+	F11="null"
+	F12="null"
+	F13="null"
+	F14="null"
+	F15="null"
+	F16="null"
+	F17="null"
+	F18="null"
+	F19="null"
+	F20="null"
+	F21="null"
+	F22="null"
+	F23="null"
+	F24="null"
+/>
+<shift
+	shift1="shift1"
+	shift2="shift2"
+	shift3="shift3"
+	shift4="shift4"
+	shift5="shift5"
+	shift6="shift6"
+	shift7="shift7"
+/>
+<swts
+	switch1="Switch1"
+	switch2="Switch2"
+	switch3="Switch3"
+	switch4="Switch4"
+/>
+<esc esc="null"/>
+<qbs
+	qb0=""
+	qb1=""
+	qb2=""
+	qb3=""
+	qb4=""
+	qb5=""
+	qb6=""
+	qb7=""
+	qb8=""
+	qb9=""
+	qb10=""
+	qb11=""
+	qb12=""
+	qb13=""
+	qb14=""
+	qb15=""
+/>
+<Ds
+	up="Up"
+	down="Down"
+	left="Left"
+	right="Right"
+/>
+<sites>
+<s index="0"
+	name="WMS Extrema"
+	host="10.72.0.169"
+	port="4524"
+	encoding="UTF-8"
+	user=""
+	pass=""
+/>
+</sites>
+</entitys>

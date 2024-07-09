@@ -1,0 +1,9 @@
+quantos entradas podem ter para gbics de 10 GB?
+
+sh logging
+sh inter status
+sh power inline
+
+
+
+Verificação no breack

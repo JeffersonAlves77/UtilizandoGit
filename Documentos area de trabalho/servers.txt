@@ -1,0 +1,21 @@
+SVH-CON-01 --> Server Extrema	
+
+VPW-EXM-BAL01A --> Server Balança
+
+EXT Mensal Março Fita 4
+
+84439933
+
+14574 --> N Senf
+
+9489...
+
+Marcio...
+
+Autenticator
+
+echo %logonserver%
+
+
+81 988657845 - Michele 
+

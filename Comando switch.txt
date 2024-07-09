@@ -1,0 +1,18 @@
+show int | i proto.*notconnect|proto.*administratively down|Last in.* [6-9]w|Last in.*[0-9][0-9]w|[0-9]y|Last input never, output never, output hang never --> Verifica quanto tempo a porta esta desliga
+
+show version | i uptime --> Verifica quanto tempo o switch esta ativo.
+
+show interfaces gigabitEthernet 2/0/10 --> Seleciona a porta para veriricar a conexão
+
+show int | i proto.*notconnect|proto.*administratively down|Last input* --> Verifica porta a porta quanto tempo a ultima coisa conectou.
+
+conf t --> Entrar em modo de configuração
+
+Interface GigabitEthernet 1/0/0 --> Selecionar a porta.
+
+Shut --> Desliga a porta
+Noshut --> Liga a porta
+
+Show interface status --> Verifica a conectividade das portas, connected ou notconnect.
+
+sh interfaces port-channel 10 status --> port Channel
